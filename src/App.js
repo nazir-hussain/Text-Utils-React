@@ -4,6 +4,7 @@ import TextForm from './components/TextForm';
 import About from './components/About';
 import React, { useState } from 'react';
 import Alert from './components/Alert';
+import Footer from './components/Footer';
 import {
   BrowserRouter as Router,
   Switch,
@@ -54,6 +55,7 @@ function App() {
               <TextForm showAlert={showAlert} heading="TextUtils for word counter, character counter, remove extra spaces.." mode={mode} />
             </Route>
           </Switch>
+        <Footer/>
         </div>
       </Router>
     </>
