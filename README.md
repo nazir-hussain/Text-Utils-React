@@ -4,7 +4,7 @@ A tool for analyzing text data in React
 It is a simple React project or website in which we can Analyze text.
 
 <h1>What Can We do from textutils ?</h1>
-1)Lowercase<br>
+1)Convert to Lowercase<br>
 2)Uppercase<br>
 3)Copy<br>
 4)Extra Spaces Remover<br>
