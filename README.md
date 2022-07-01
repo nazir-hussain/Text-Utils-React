@@ -5,9 +5,9 @@ It is a simple React project or website in which we can Analyze text.
 
 <h1>What Can We do from textutils ?</h1>
 1)Convert to Lowercase<br>
-2)Uppercase<br>
-3)Copy<br>
-4)Extra Spaces Remover<br>
+2)Convert to Uppercase<br>
+3)Extra Spaces Remover<br>
+4)Copy<br>
 5)Clear
 
 <h1>Requirments</h1>
