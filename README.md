@@ -12,8 +12,6 @@ It is a simple React project or website in which we can Analyze text.
 
 <h1>Requirments</h1>
 React<br>
-<!-- django<br>
- -->
 <!-- ### Text-Utils-React -->
 
 ### Preview
@@ -24,6 +22,7 @@ React<br>
 ![Screenshot (35)](https://user-images.githubusercontent.com/56648155/177011195-f289ff38-319f-473e-8bf9-89bb9482de7d.png)
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/56648155/177011315-1680a003-be48-4509-b197-4215e55ff1ee.png)
+
 
 
 # Getting Started with Create React App
