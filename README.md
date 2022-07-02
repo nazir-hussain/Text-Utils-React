@@ -19,6 +19,8 @@ React<br>
 ### Preview
 
 ### 👉 [Demo](https://main--stirring-parfait-f0ff6f.netlify.app/)
+![Screenshot (34)](https://user-images.githubusercontent.com/56648155/177011121-437697de-db8d-4053-b7e3-c5b5bae8d8f5.png)
+
 
 
 # Getting Started with Create React App
