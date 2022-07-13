@@ -13,7 +13,7 @@ It is a simple React project or website in which we can Analyze text.
 React<br>
 <!-- ### Text-Utils-React -->
 
-### 👉for [Demo](https://main--stirring-parfait-f0ff6f.netlify.app/)
+### 👉For Demo [click here](https://main--stirring-parfait-f0ff6f.netlify.app/)
 
 ### Preview
 
