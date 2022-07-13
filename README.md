@@ -13,9 +13,10 @@ It is a simple React project or website in which we can Analyze text.
 React<br>
 <!-- ### Text-Utils-React -->
 
+### 👉for [Demo](https://main--stirring-parfait-f0ff6f.netlify.app/)
+
 ### Preview
 
-### 👉 [Demo](https://main--stirring-parfait-f0ff6f.netlify.app/)
 ![Screenshot (34)](https://user-images.githubusercontent.com/56648155/177011121-437697de-db8d-4053-b7e3-c5b5bae8d8f5.png)
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/56648155/177011195-f289ff38-319f-473e-8bf9-89bb9482de7d.png)
