@@ -1,6 +1,5 @@
 # TextUtils
-A tool for analyzing text data in React
-
+A tool for analyzing text data in React.
 It is a simple React project or website in which we can Analyze text.
 
 <h1>What Can We do from textutils ?</h1>
