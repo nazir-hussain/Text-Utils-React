@@ -23,6 +23,14 @@ React<br>
 ![Screenshot (36)](https://user-images.githubusercontent.com/56648155/177011315-1680a003-be48-4509-b197-4215e55ff1ee.png)
 
 
+### Contributing
+Any and all contributions, issues, features and tips are welcome.
+
+
+### Contact
+For any Suggestion / Ideas ping me at [Instagram](https://www.instagram.com/nazir__hassan/) or [Twitter](https://twitter.com/Im_NazirHussain/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -93,11 +101,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-### Contributing
-Any and all contributions, issues, features and tips are welcome.
-
-
-### Contact
-For any Suggestion / Ideas ping me at [Instagram](https://www.instagram.com/nazir__hassan/) or [Twitter](https://twitter.com/Im_NazirHussain/)
