@@ -23,7 +23,7 @@ React<br>
 ![Screenshot (36)](https://user-images.githubusercontent.com/56648155/177011315-1680a003-be48-4509-b197-4215e55ff1ee.png)
 
 
-### Contributing
+## Contributing
 Any and all contributions, issues, features and tips are welcome.
 
 
