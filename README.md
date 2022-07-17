@@ -12,7 +12,7 @@ It is a simple React project or website in which we can Analyze text.
 <h1>Requirments</h1>
 React<br>
 
-### 👉For Demo [click me](https://main--stirring-parfait-f0ff6f.netlify.app/)
+### 👉 For Demo [click me](https://main--stirring-parfait-f0ff6f.netlify.app/)
 
 ### Preview
 
