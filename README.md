@@ -30,11 +30,3 @@ Any and all contributions, issues, features and tips are welcome.
 ### Contact
 For any Suggestion / Ideas ping me at [Instagram](https://www.instagram.com/nazir__hassan/) or [Twitter](https://twitter.com/Im_NazirHussain/)
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
