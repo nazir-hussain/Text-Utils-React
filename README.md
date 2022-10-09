@@ -27,5 +27,5 @@ React<br>
 Any and all contributions, issues, features and tips are welcome.
 
 
-### Contact
+### Contact me
 For any Suggestion / Ideas ping me at [Instagram](https://www.instagram.com/nazir__hassan/) or [Twitter](https://twitter.com/Im_NazirHussain/)
